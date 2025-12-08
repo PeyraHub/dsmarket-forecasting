@@ -1,0 +1,17 @@
+pandas
+numpy
+pmdarima
+statsmodels
+google-cloud-bigquery
+google-auth
+matplotlib
+scikit-learn
+prophet
+cmdstanpy
+xgboost
+optuna
+joblib
+python-dotenv
+seaborn
+openpyxl
+jupyterlab

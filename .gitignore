@@ -1,0 +1,6 @@
+# Ignorar datos pesados
+data_dsmarket/raw/
+data_dsmarket/processed/
+
+# Ignorar entorno virtual
+venv/
