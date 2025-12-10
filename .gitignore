@@ -1,6 +1,7 @@
 # Ignorar datos pesados
 data_dsmarket/raw/
 data_dsmarket/processed/
+.DS_Store
 
 # Ignorar entorno virtual
 venv/
